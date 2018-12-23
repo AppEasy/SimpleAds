@@ -2,6 +2,10 @@
 
  "sample":[
 		{
+        "app_name": "Nandamuri Family Fans",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.nandamurifamilyfans",
+		"app_icon": "https://lh3.googleusercontent.com/E_RZyz7O6ebw1s-uOrpVcO6vSfXlUC6bqfw7ix61EAq5HzScuYjs_7JpUy-pmYFNqAo=s180-rw"
+    },{
         "app_name": "Christmas Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.christmasphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/rOtm0cdDuup60DKYD0iaJCNZp4_-c4UL5N_U03gr_lCSbJcGezqj-cR0MLGa1GyfRgY=s180-rw"
