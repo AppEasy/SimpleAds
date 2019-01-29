@@ -2,9 +2,13 @@
 
  "sample":[
 		{
-	"app_name": "Inspirational Quotes Wallpapers",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.inspirationalquoteshdwallpapers",
-		"app_icon": "https://lh3.googleusercontent.com/f1jdENe8VoPl2JI1ErPeXWOqYVwWD9vi9C0LfShNCQIWVMoHtOfvYOveZeI3fPcE9yM=s180-rw"
+	"app_name": "Sky Blue Wallpapers",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.skybluewallpapers",
+		"app_icon": "https://lh3.googleusercontent.com/qcC3CBGYkqIR4ExYmsxjoep_u_DMYShlLyOPCu758uFp2v6SRZcnT_a1K1KWqGBi--4=s180-rw"
+    },{
+        "app_name": "Butterfly Photo Frames",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.butterflyphotoframes",
+		"app_icon": "https://lh3.googleusercontent.com/kY-iiAVOl_dVh6iYlMoZo6GZg__w0LhIWxMP3GRh8WLjLNWJMGUo83i01XOA075EMA=s180-rw"
     },{
 	"app_name": "Jesus Christ HD Wallpapers 2019",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.jesuschristhdwallpapers",
@@ -24,7 +28,7 @@
     },{
         "app_name": "Allu Arjun HD Wallapers",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.alluarjunhdwallpapers",
-		"app_icon": "https://lh3.googleusercontent.com/LS2QC-c9yPFMLcFfz2YV7D9vyWktjZ_lyGRxAH7_b3LQ5lH24-ey8CsimqeWWcderw=s180-rw"
+		"app_icon": "https://lh3.googleusercontent.com/LkNWX1Xuv70KQXIwKwv6S2b2wDIbkOCoC-UtFXkMVKZL2cifUt8ubSgl-2DYvV_ZGemt=s180-rw"
     },{
         "app_name": "Birthday Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.birthdayphotoframes",
@@ -42,9 +46,9 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.gardenphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/T5graAP5eGb6IdiO0Ii-MsXQaFGBUJiTsf737mO1YkpWz0Rxe_OG2zHtpH04VFy5dw=s180-rw"
     },{
-        "app_name": "Nandamuri Family Fans",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.nandamurifamilyfans",
-		"app_icon": "https://lh3.googleusercontent.com/E_RZyz7O6ebw1s-uOrpVcO6vSfXlUC6bqfw7ix61EAq5HzScuYjs_7JpUy-pmYFNqAo=s180-rw"
+        "app_name": "Inspirational Quotes Wallpapers",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.inspirationalquoteshdwallpapers",
+		"app_icon": "https://lh3.googleusercontent.com/f1jdENe8VoPl2JI1ErPeXWOqYVwWD9vi9C0LfShNCQIWVMoHtOfvYOveZeI3fPcE9yM=s180-rw"
     },{
         "app_name": "Coffee Mug Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.coffeemugphotoframes",
@@ -61,10 +65,6 @@
         "app_name": "Flower Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.flowerphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/0AwBUuWgTMyDLbntxgZ8p9Whm4NeC_BHRo968nuVpihxkbeEQKIvGa3EQF54LITJA18=s180-rw"
-    },{
-        "app_name": "Butterfly Photo Frames",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.butterflyphotoframes",
-		"app_icon": "https://lh3.googleusercontent.com/kY-iiAVOl_dVh6iYlMoZo6GZg__w0LhIWxMP3GRh8WLjLNWJMGUo83i01XOA075EMA=s180-rw"
     },{
         "app_name": "Christmas Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.christmasphotoframes",
