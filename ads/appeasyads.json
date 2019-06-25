@@ -2,6 +2,10 @@
 
  "sample":[
 		{
+        "app_name": "Nature Photo Frames",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.naturephotoframes",
+		"app_icon": "https://lh3.googleusercontent.com/nagPo6gmj3eSrnEJY7q-n_PrJyFaJ5avBNML6Df0HsP-afXvrQ7zHQ5wgv78Df48Xknr=s180-rw"
+    },{
         "app_name": "Glass Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.glassphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/4m5nL52YO0KfUWGXRfIy1kW5jhKCdyh_KkPwxkY7F_g9SCi86lbNTFhZQC42yRpudw=s180-rw"
@@ -10,9 +14,9 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.butterflyphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/kY-iiAVOl_dVh6iYlMoZo6GZg__w0LhIWxMP3GRh8WLjLNWJMGUo83i01XOA075EMA=s180-rw"
     },{
-        "app_name": "Nature Photo Frames",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.naturephotoframes",
-		"app_icon": "https://lh3.googleusercontent.com/nagPo6gmj3eSrnEJY7q-n_PrJyFaJ5avBNML6Df0HsP-afXvrQ7zHQ5wgv78Df48Xknr=s180-rw"
+        "app_name": "Jr NTR Wallpapers HD",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.ntrwallpapershd",
+		"app_icon": "https://lh3.googleusercontent.com/aKugYm9j5widY46V8TWcqAGz6skKs7ygMHGTWvh_Xu3h8PRfS7Djl5qfvt4VhR8ab9c=s180-rw"
     },{
 	"app_name": "Garden Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.gardenphotoframes",
@@ -29,10 +33,6 @@
         "app_name": "Hills Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.hillsphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/jmLt5WuapYvShyczjAYvWPQVG8RU_ThULgffw7QuCg4J1Wi2xsJGVM4DA5WL-dkmLw8=s180-rw"
-    },{
-        "app_name": "Jr NTR Wallpapers HD",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.ntrwallpapershd",
-		"app_icon": "https://lh3.googleusercontent.com/aKugYm9j5widY46V8TWcqAGz6skKs7ygMHGTWvh_Xu3h8PRfS7Djl5qfvt4VhR8ab9c=s180-rw"
     },{
         "app_name": "Allu Arjun HD Wallapers",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.alluarjunhdwallpapers",
