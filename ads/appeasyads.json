@@ -2,6 +2,10 @@
 
  "sample":[
 		{
+        "app_name": "Allu Arjun HD Wallapers",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.alluarjunhdwallpapers",
+		"app_icon": "https://lh3.googleusercontent.com/LkNWX1Xuv70KQXIwKwv6S2b2wDIbkOCoC-UtFXkMVKZL2cifUt8ubSgl-2DYvV_ZGemt=s180-rw"
+    },{
         "app_name": "Nature Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.naturephotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/nagPo6gmj3eSrnEJY7q-n_PrJyFaJ5avBNML6Df0HsP-afXvrQ7zHQ5wgv78Df48Xknr=s180-rw"
@@ -33,10 +37,6 @@
         "app_name": "Hills Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.hillsphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/jmLt5WuapYvShyczjAYvWPQVG8RU_ThULgffw7QuCg4J1Wi2xsJGVM4DA5WL-dkmLw8=s180-rw"
-    },{
-        "app_name": "Allu Arjun HD Wallapers",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.alluarjunhdwallpapers",
-		"app_icon": "https://lh3.googleusercontent.com/LkNWX1Xuv70KQXIwKwv6S2b2wDIbkOCoC-UtFXkMVKZL2cifUt8ubSgl-2DYvV_ZGemt=s180-rw"
     },{
         "app_name": "Rakul Preet Singh Latest Wallpapers HD",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.rakulpreetsinghwallpapershd",
