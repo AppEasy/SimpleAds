@@ -2,10 +2,6 @@
 
  "sample":[
 		{
-        "app_name": "Allu Arjun HD Wallapers",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.alluarjunhdwallpapers",
-		"app_icon": "https://lh3.googleusercontent.com/LkNWX1Xuv70KQXIwKwv6S2b2wDIbkOCoC-UtFXkMVKZL2cifUt8ubSgl-2DYvV_ZGemt=s180-rw"
-    },{
         "app_name": "Nature Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.naturephotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/nagPo6gmj3eSrnEJY7q-n_PrJyFaJ5avBNML6Df0HsP-afXvrQ7zHQ5wgv78Df48Xknr=s180-rw"
@@ -17,10 +13,6 @@
         "app_name": "Butterfly Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.butterflyphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/kY-iiAVOl_dVh6iYlMoZo6GZg__w0LhIWxMP3GRh8WLjLNWJMGUo83i01XOA075EMA=s180-rw"
-    },{
-        "app_name": "Jr NTR Wallpapers HD",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.ntrwallpapershd",
-		"app_icon": "https://lh3.googleusercontent.com/aKugYm9j5widY46V8TWcqAGz6skKs7ygMHGTWvh_Xu3h8PRfS7Djl5qfvt4VhR8ab9c=s180-rw"
     },{
 	"app_name": "Garden Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.gardenphotoframes",
@@ -38,10 +30,6 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.hillsphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/jmLt5WuapYvShyczjAYvWPQVG8RU_ThULgffw7QuCg4J1Wi2xsJGVM4DA5WL-dkmLw8=s180-rw"
     },{
-        "app_name": "Rakul Preet Singh Latest Wallpapers HD",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.rakulpreetsinghwallpapershd",
-		"app_icon": "https://lh3.googleusercontent.com/Bthr-74X708sjHv9iMzy3caBgT6cDDyEmerSVE-xr_0SaJGvonDQ2FNkKlJWs18nLQ=s180-rw"
-    },{
         "app_name": "All Gods Wallpapers HD",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.allgodswallpaper",
 		"app_icon": "https://lh3.googleusercontent.com/4xvRFOrLy4BiowEpx7Ni4BLo1FBx2L95fd8bxpZWB6cEUqX-09hvHX20z4-pwyhnbQk=s180-rw"
@@ -57,14 +45,6 @@
         "app_name": "Birthday Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.birthdayphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/simOs0hr_z6yPGkKk-4V4Jp3a3VKUw1KVPJROYe0hiiS1i-3M2TR0QkgihT11R3gucU=s180-rw"
-    },{
-        "app_name": "Nandamuri Family Fans",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.nandamurifamilyfans",
-		"app_icon": "https://lh3.googleusercontent.com/m5Jhtsvnc4vFh_jQICPpcxJMBn74LNuF6wibNTUElZiFLkIRlOmE6GWTgmZTTeo0Vew9=s180-rw"
-    },{
-        "app_name": "Mahesh Babu Wallpapers HD",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.maheshbabuwallpapershd",
-		"app_icon": "https://lh3.googleusercontent.com/EQ4Geg6owDaidIKsCMobO-mEAhBxs-WiiHpoefkPG8nW8IZkW2W4vkcAqtAeuJf-yIg=s180-rw"
-     }
+    }
  ]
 }
