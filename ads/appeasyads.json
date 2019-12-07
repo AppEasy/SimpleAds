@@ -65,6 +65,14 @@
 	"app_name": "Love Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.valentinesdayphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/Y6k0vTrVQ-bHZZPGKtvMmMJRvVhqs6wm_kYTesLw7Lkt8igsj7JrU-YDxXVrwn8uA6c=s180-rw"
+    },{
+	"app_name": "Nature Wallpapers",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.naturewallpapers",
+		"app_icon": "https://lh3.googleusercontent.com/jcnHZ_l0wPSQaAKr8CpFx-JyLgSy4wHyP48RDERjGfYDc-GcZiIdUwZEpbUJm9D4RI_T=s180-rw"
+    },{
+	"app_name": "Sky Blue Wallpapers",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.skybluewallpapers",
+		"app_icon": "https://lh3.googleusercontent.com/qcC3CBGYkqIR4ExYmsxjoep_u_DMYShlLyOPCu758uFp2v6SRZcnT_a1K1KWqGBi--4=s180-rw"
     }
  ]
 }
