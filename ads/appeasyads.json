@@ -2,7 +2,7 @@
 
  "sample":[
 		{
-        "app_name": "All Gods Wallpapers HD",
+        "app_name": "All Gods Wallpapers",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.allgodswallpaper",
 		"app_icon": "https://lh3.googleusercontent.com/4xvRFOrLy4BiowEpx7Ni4BLo1FBx2L95fd8bxpZWB6cEUqX-09hvHX20z4-pwyhnbQk=s180-rw"
     },{
@@ -22,6 +22,10 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.statussaver",
 		"app_icon": "https://lh3.googleusercontent.com/SwSy6Iqtz41WBcUVH4IeyT779-j8kEQMty2TQgBE9F016scdGU-AsaA9S_Db3FZoUzKU=s180-rw"
     },{
+        "app_name": "2020 Telugu Calendar Panchangam",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.telugucalenderpanchangam",
+		"app_icon": "https://lh3.googleusercontent.com/Nms7sCkhevqw0BXruu1A-nPXjcG9a0jC4Z5I9KblOG3LK9lgHfHtFXZ3Ym4IXQJPGQ=s180-rw"
+    },{
         "app_name": "Nature Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.naturephotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/nagPo6gmj3eSrnEJY7q-n_PrJyFaJ5avBNML6Df0HsP-afXvrQ7zHQ5wgv78Df48Xknr=s180-rw"
@@ -33,10 +37,6 @@
         "app_name": "Glass Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.glassphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/4m5nL52YO0KfUWGXRfIy1kW5jhKCdyh_KkPwxkY7F_g9SCi86lbNTFhZQC42yRpudw=s180-rw"
-    },{
-        "app_name": "2020 Telugu Calendar Raasiphalalu",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.telugucalenderpanchangam",
-		"app_icon": "https://lh3.googleusercontent.com/Nms7sCkhevqw0BXruu1A-nPXjcG9a0jC4Z5I9KblOG3LK9lgHfHtFXZ3Ym4IXQJPGQ=s180-rw"
     },{
 	"app_name": "Garden Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.gardenphotoframes",
@@ -73,10 +73,6 @@
 	"app_name": "Love Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.valentinesdayphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/Y6k0vTrVQ-bHZZPGKtvMmMJRvVhqs6wm_kYTesLw7Lkt8igsj7JrU-YDxXVrwn8uA6c=s180-rw"
-    },{
-	"app_name": "Nature Wallpapers",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.naturewallpapers",
-		"app_icon": "https://lh3.googleusercontent.com/jcnHZ_l0wPSQaAKr8CpFx-JyLgSy4wHyP48RDERjGfYDc-GcZiIdUwZEpbUJm9D4RI_T=s180-rw"
     },{
 	"app_name": "Sky Blue Wallpapers",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.skybluewallpapers",
