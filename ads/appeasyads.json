@@ -22,10 +22,6 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.statussaver",
 		"app_icon": "https://lh3.googleusercontent.com/SwSy6Iqtz41WBcUVH4IeyT779-j8kEQMty2TQgBE9F016scdGU-AsaA9S_Db3FZoUzKU=s180-rw"
     },{
-        "app_name": "2020 Telugu Calendar Panchangam",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.telugucalenderpanchangam",
-		"app_icon": "https://lh3.googleusercontent.com/Nms7sCkhevqw0BXruu1A-nPXjcG9a0jC4Z5I9KblOG3LK9lgHfHtFXZ3Ym4IXQJPGQ=s180-rw"
-    },{
         "app_name": "Nature Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.naturephotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/nagPo6gmj3eSrnEJY7q-n_PrJyFaJ5avBNML6Df0HsP-afXvrQ7zHQ5wgv78Df48Xknr=s180-rw"
@@ -61,6 +57,10 @@
 	"app_name": "Indian Currency Note Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.indiancurrencyphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/gECFqMdYxnlll9uBOlSjls38NAiH_1BYwO2LAGwWCu-pgg3AOFxHlauVTz37pYidnPw=s180-rw"
+    },{
+        "app_name": "2020 Telugu Calendar Panchangam",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.telugucalenderpanchangam",
+		"app_icon": "https://lh3.googleusercontent.com/Nms7sCkhevqw0BXruu1A-nPXjcG9a0jC4Z5I9KblOG3LK9lgHfHtFXZ3Ym4IXQJPGQ=s180-rw"
     },{
 	"app_name": "Sunrise Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.sunrisephotoframes",
