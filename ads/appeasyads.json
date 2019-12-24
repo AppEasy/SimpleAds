@@ -6,6 +6,18 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.allgodswallpaper",
 		"app_icon": "https://lh3.googleusercontent.com/4xvRFOrLy4BiowEpx7Ni4BLo1FBx2L95fd8bxpZWB6cEUqX-09hvHX20z4-pwyhnbQk=s180-rw"
     },{
+        "app_name": "Butterfly Photo Frames",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.butterflyphotoframes",
+		"app_icon": "https://lh3.googleusercontent.com/kY-iiAVOl_dVh6iYlMoZo6GZg__w0LhIWxMP3GRh8WLjLNWJMGUo83i01XOA075EMA=s180-rw"
+    },{
+        "app_name": "Glass Photo Frames",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.glassphotoframes",
+		"app_icon": "https://lh3.googleusercontent.com/4m5nL52YO0KfUWGXRfIy1kW5jhKCdyh_KkPwxkY7F_g9SCi86lbNTFhZQC42yRpudw=s180-rw"
+    },{
+        "app_name": "Nature Photo Frames",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.naturephotoframes",
+		"app_icon": "https://lh3.googleusercontent.com/nagPo6gmj3eSrnEJY7q-n_PrJyFaJ5avBNML6Df0HsP-afXvrQ7zHQ5wgv78Df48Xknr=s180-rw"
+    },{
         "app_name": "Transparent Screen Live Wallpapers",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.transparentscreenlivewallpapers",
 		"app_icon": "https://lh3.googleusercontent.com/vA0aj_QgnJrUVLznU7V0-LhCJuJ2uWHbO39OAMEDcaSbqtUf2DKSJJOX-FNQAKJDd8R7=s180-rw"
@@ -22,18 +34,6 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.christmasphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/Qo6VYd8hDUSwSO8psJGl_gmvZWaHpuATzoRLP4ATX9i4iCsw7wCtnBFzHJUzx5Dfe88=s180-rw"
     },{
-        "app_name": "Nature Photo Frames",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.naturephotoframes",
-		"app_icon": "https://lh3.googleusercontent.com/nagPo6gmj3eSrnEJY7q-n_PrJyFaJ5avBNML6Df0HsP-afXvrQ7zHQ5wgv78Df48Xknr=s180-rw"
-    },{
-        "app_name": "Butterfly Photo Frames",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.butterflyphotoframes",
-		"app_icon": "https://lh3.googleusercontent.com/kY-iiAVOl_dVh6iYlMoZo6GZg__w0LhIWxMP3GRh8WLjLNWJMGUo83i01XOA075EMA=s180-rw"
-    },{
-        "app_name": "Glass Photo Frames",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.glassphotoframes",
-		"app_icon": "https://lh3.googleusercontent.com/4m5nL52YO0KfUWGXRfIy1kW5jhKCdyh_KkPwxkY7F_g9SCi86lbNTFhZQC42yRpudw=s180-rw"
-    },{
 	"app_name": "Garden Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.gardenphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/T5graAP5eGb6IdiO0Ii-MsXQaFGBUJiTsf737mO1YkpWz0Rxe_OG2zHtpH04VFy5dw=s180-rw"
@@ -42,7 +42,7 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.appswallet.waterfallphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/TMU5WTG795HoAOLK0QxLjUiWzQ4cd9Hq5oOJa-XguC2aXpqM8AaxNsgef_AyD1N-488z=s180-rw"
     },{
-	"app_name": "Nature Wallpapers HD",
+	"app_name": "Nature Wallpapers",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appeasy.naturewallpapers",
 		"app_icon": "https://lh3.googleusercontent.com/jcnHZ_l0wPSQaAKr8CpFx-JyLgSy4wHyP48RDERjGfYDc-GcZiIdUwZEpbUJm9D4RI_T=s180-rw"
     },{
